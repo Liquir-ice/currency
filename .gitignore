@@ -1,0 +1,15 @@
+/vendor
+/node_modules
+/public/bower_components
+/public/css
+/public/js
+/public/fonts
+/public/build
+/public/images
+/.sass-cache
+/.bundle
+composer.lock
+.env
+.DS_Store
+Thumbs.db
+Gemfile.lock
